@@ -62,13 +62,21 @@
 			children = (
 				0B58145327724BCA009F4227 /* AppDelegate.swift */,
 				0B58145527724BCA009F4227 /* SceneDelegate.swift */,
-				0B58145727724BCA009F4227 /* ViewController.swift */,
-				0B58146927724E8E009F4227 /* SecondViewController.swift */,
-				0B58146727724CD1009F4227 /* Singleton.swift */,
+				0B58146B277252BF009F4227 /* Singleton */,
 				0B58145927724BCA009F4227 /* Main.storyboard */,
 				0B58145C27724BCC009F4227 /* Assets.xcassets */,
 				0B58145E27724BCC009F4227 /* LaunchScreen.storyboard */,
 				0B58146127724BCC009F4227 /* Info.plist */,
+			);
+			path = Singleton;
+			sourceTree = "<group>";
+		};
+		0B58146B277252BF009F4227 /* Singleton */ = {
+			isa = PBXGroup;
+			children = (
+				0B58146727724CD1009F4227 /* Singleton.swift */,
+				0B58145727724BCA009F4227 /* ViewController.swift */,
+				0B58146927724E8E009F4227 /* SecondViewController.swift */,
 			);
 			path = Singleton;
 			sourceTree = "<group>";
